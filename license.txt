@@ -176,5 +176,6 @@
 	END OF TERMS AND CONDITIONS
 Modyfing  the code
 
+this should work automatcially with jenkins.
 
 This is a test code added
